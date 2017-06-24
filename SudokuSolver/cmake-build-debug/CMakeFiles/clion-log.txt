@@ -1,0 +1,4 @@
+/home/nikola3in1/Programs/CLion/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nikola3in1/MyFiles/IT/Cpp/SudokuSolver
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nikola3in1/MyFiles/IT/Cpp/SudokuSolver/cmake-build-debug
